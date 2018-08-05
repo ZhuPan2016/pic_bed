@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 ,CCTV-1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ZhuPan2016/pic_bed/master/cctv.jpg",CCTV-1
 http://39.137.76.32:8089/00/SNM/CHANNEL00000001/index.m3u8
-#EXTINF:-1 ,CCTV-1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ZhuPan2016/pic_bed/master/cctv.jpg",CCTV-1
 http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225765/1.m3u8
 #EXTINF:-1 ,山东卫视
 http://39.137.76.32:8089/00/SNM/CHANNEL00000051/index.m3u8
@@ -11,15 +11,15 @@ http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225763/1.m3u8
 http://39.137.76.32:8089/00/SNM/CHANNEL00000609/index.m3u8
 #EXTINF:-1 ,中国气象
 http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
-#EXTINF:-1 ,CCTV-2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ZhuPan2016/pic_bed/master/cctv.jpg",CCTV-2
 http://39.137.76.32:8089/00/SNM/CHANNEL00000002/index.m3u8
-#EXTINF:-1 ,CCTV-2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ZhuPan2016/pic_bed/master/cctv.jpg",CCTV-2
 http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225829/1.m3u8
-#EXTINF:-1 ,CCTV-3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ZhuPan2016/pic_bed/master/cctv.jpg" ,CCTV-3
 http://39.137.76.32:8089/00/SNM/CHANNEL00000003/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ZhuPan2016/pic_bed/master/CCTV4.png" ,CCTV-4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ZhuPan2016/pic_bed/master/cctv.jpg" ,CCTV-4
 http://39.137.76.32:8089/00/SNM/CHANNEL00000004/index.m3u8
-#EXTINF:-1 ,CCTV-5
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ZhuPan2016/pic_bed/master/cctv.jpg",CCTV-5
 http://39.137.76.32:8089/00/SNM/CHANNEL30000005/index.m3u8
-#EXTINF:-1 ,CCTV-5
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ZhuPan2016/pic_bed/master/cctv.jpg",CCTV-5
 http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225800/1.m3u8
