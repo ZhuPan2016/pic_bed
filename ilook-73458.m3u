@@ -21,5 +21,5 @@ http://39.137.76.32:8089/00/SNM/CHANNEL00000003/index.m3u8
 http://39.137.76.32:8089/00/SNM/CHANNEL00000004/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ZhuPan2016/pic_bed/master/cctv.jpg",CCTV-5
 http://39.137.76.32:8089/00/SNM/CHANNEL30000005/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ZhuPan2016/pic_bed/master/cctv.jpg",CCTV-5
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ZhuPan2016/pic_bed/master/cctv.jpg",CCTV-5
 http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225800/1.m3u8
