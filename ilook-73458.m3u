@@ -25,22 +25,6 @@ http://39.137.76.32:8089/00/SNM/CHANNEL30000005/index.m3u8
 http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225800/1.m3u8
 #EXTINF:-1 ,深度财经0804
 http://asp.cntv.qingcdn.com/asp/hls/1200/0303000a/3/default/209b76074cf240169cf640bbc7c8e535/1200.m3u8
-#EXTINF:-1 ,凤凰中文
-rtmp://ivi.bupt.edu.cn:1935/livetv/fhzw
-#EXTINF:-1 ,凤凰资讯
-rtmp://ivi.bupt.edu.cn:1935/livetv/fhzx
-#EXTINF:-1 ,凤凰电影
-rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy
-#EXTINF:-1 ,星空卫视
-rtmp://ivi.bupt.edu.cn:1935/livetv/startv
-#EXTINF:-1 ,STAR SPORTS
-rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
-#EXTINF:-1 ,Channel[V]
-rtmp://ivi.bupt.edu.cn:1935/livetv/channelv
-#EXTINF:-1 ,探索频道
-rtmp://ivi.bupt.edu.cn:1935/livetv/discovery
-#EXTINF:-1 ,国家地理
-rtmp://ivi.bupt.edu.cn:1935/livetv/natlgeo
-#EXTINF:-1 ,国防军事
-rtmp://ivi.bupt.edu.cn:1935/livetv/gfjstv
+#EXTINF:-1 ,好消息美食旅游台
+http://live.streamingfast.net/osmflivech14.m3u8
 
