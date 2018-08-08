@@ -27,4 +27,12 @@ http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225800/1.m3u8
 http://asp.cntv.qingcdn.com/asp/hls/1200/0303000a/3/default/209b76074cf240169cf640bbc7c8e535/1200.m3u8
 #EXTINF:-1 ,好消息美食旅游台
 http://live.streamingfast.net/osmflivech14.m3u8
+#EXTINF:-1 ,凤凰卫视中文台
+http://117.169.79.106:8080/PLTV/88888888/224/3221225657/index.m3u8
+#EXTINF:-1 ,凤凰卫视中文台
+http://223.110.245.139/PLTV/3/224/3221226922/index.m3u8
+#EXTINF:-1 ,凤凰卫视资讯台
+http://117.169.79.106:8080/PLTV/88888888/224/3221225658/index.m3u8
+#EXTINF:-1 ,凤凰卫视资讯台
+http://223.110.243.155:80/PLTV/3/224/3221226923/index.m3u8
 
