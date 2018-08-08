@@ -41,5 +41,6 @@ rtmp://ivi.bupt.edu.cn:1935/livetv/channelv
 rtmp://ivi.bupt.edu.cn:1935/livetv/discovery
 #EXTINF:-1 ,国家地理
 rtmp://ivi.bupt.edu.cn:1935/livetv/natlgeo
-
+#EXTINF:-1 ,国防军事
+rtmp://ivi.bupt.edu.cn:1935/livetv/gfjstv
 
