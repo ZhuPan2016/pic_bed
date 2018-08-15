@@ -232,3 +232,5 @@ Newstv完美游戏,http://183.207.249.16/PLTV/3/224/3221225539/index.m3u8
 韩国-KCTVN,http://122.202.129.136:1935/live/ch4/playlist.m3u8
 韩国中央台,http://122.202.129.136:1935/live/ch5/playlist.m3u8
 韩国KTV-HD,rtmp://218.38.152.31/klive/klive.stream
+dis,http://listaccess.me:8880/live/delbert/delbert/2315.ts
+
