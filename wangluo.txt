@@ -34,6 +34,8 @@ CCTV-5+HD,http://183.215.116.134:6410/180000001001/00000000000000020000000000182
 香港奇妙电视台,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 TVBJ2,http://103.89.176.45:8278/J2/playlist.m3u8
 TVB明珠台,http://103.89.176.45:8278/Pearl/playlist.m3u8
+Vitv,http://103.89.176.45:8278/Viu/playlist.m3u8
+香港喜悦,http://103.89.176.45:8278/Xiyue/playlist.m3u8
 浙江卫视,http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000016/index.m3u8
 湖南卫视,http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000017/index.m3u8
 江苏卫视,http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000018/index.m3u8
